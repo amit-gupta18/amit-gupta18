@@ -33,6 +33,10 @@
 
 <br>
 
+## 🛠️ Tech Arsenal
+
+<br>
+
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -123,7 +127,7 @@
 
 <div align="center">
 
-<a href="https://github.com/amit-gupta18"><img height="175" src="https://github-readme-stats.vercel.app/api?username=amit-gupta18&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=E8FF47&icon_color=E8FF47&text_color=cccccc&border_color=1f1f1f&hide_border=false&rank_icon=github" /></a>
+<a href="https://github.com/amit-gupta18"><img height="175" src="https://github-readme-stats.vercel.app/api?username=amit-gupta18&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0a0a0a&title_color=E8FF47&icon_color=E8FF47&text_color=cccccc&border_color=1f1f1f&hide_border=false" /></a>
 <a href="https://github.com/amit-gupta18"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-gupta18&layout=compact&theme=dark&bg_color=0a0a0a&title_color=E8FF47&text_color=cccccc&border_color=1f1f1f&hide_border=false&langs_count=8" /></a>
 
 <br/>
@@ -193,7 +197,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amit-gupta18&bg_color=0a0a0a&color=E8FF47&line=4a6a10&point=E8FF47&area=true&area_color=1a2e00&border_color=1f1f1f&hide_border=false&title_color=E8FF47)](https://github.com/amit-gupta18)
 
-<img src="https://raw.githubusercontent.com/amit-gupta18/amit-gupta18/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
+<img src="https://raw.githubusercontent.com/amit-gupta18/amit-gupta18/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%"/>
 
 </div>
 
