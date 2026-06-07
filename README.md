@@ -31,17 +31,11 @@
 
 *— More than meets the eye*
 
-<br>
-
-## 🛠️ Tech Arsenal
-
-<br>
-
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-```bash
+```text
 ┌──(amit㉿optimus_prime)-[~]
 └─$ cat /etc/amit.conf
 
@@ -87,6 +81,8 @@
 <br/>
 
 ---
+
+## ⚡ `$ My Relics `
 
 <div align="center">
 
