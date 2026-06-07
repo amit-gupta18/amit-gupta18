@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full+Stack+Dev+%40+CapsAI+%F0%9F%9A%80;SIH+2024+National+Winner+%F0%9F%8F%86;LangChain+%7C+RAG+%7C+Agentic+AI;Transform.+Build.+Lead.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Full+Stack+Dev+%7C+GenAI+Engineer;Global+2nd+%E2%80%94+Hack-Nation+AI+Hackathon+%F0%9F%8F%86;SIH+2024+National+Winner+%F0%9F%87%AE%F0%9F%87%B3;LangChain+%7C+RAG+%7C+Multi-Agent+Orchestration;Transform.+Build.+Lead.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -27,10 +27,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## ⚡ `$ whoami`
 
 *— More than meets the eye*
@@ -54,27 +50,26 @@
 > MOTTO      ::  "Transform. Build. Lead."
 
 > CURRENT MISSION:
-  ↳ Building AI-powered products @ CapsAI
-  ↳ Exploring Agentic AI & LangGraph systems
-  ↳ Improving DSA & System Design
-  ↳ Shipping production-ready applications
+  ↳ Building Agentic AI pipelines & LLM systems
+  ↳ Exploring Multi-Agent Orchestration & LangGraph
+  ↳ Shipping production-ready full-stack AI apps
+  ↳ Deepening System Design & Distributed Systems
 
 > INTERESTS:
-  ↳ Generative AI
+  ↳ Generative AI & Agentic Systems
   ↳ Full Stack Development
   ↳ System Design & Scalability
-  ↳ Open Source
-  ↳ Entrepreneurship
+  ↳ Open Source & Entrepreneurship
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://giffiles.alphacoders.com/220/220162.gif" width="180" height="200" style="border-radius:12px" alt="Optimus Prime" />
+<img src="optimus_starting.jpg" width="220" style="border-radius:12px" alt="Optimus Prime Star Saber - Transformers Prime" />
 
 <br>
 
-*"Freedom is the right of all sentient beings — and so is clean code."*
+"*Freedom is the right of all sentient beings — and so is clean code."*
 *— Amit, channeling Optimus Prime*
 
 <br>
@@ -88,12 +83,6 @@
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       TECH ARSENAL                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🛠 `$ ls ./tech-arsenal/`
 
 <div align="center">
 
@@ -113,23 +102,13 @@
 <tr>
 <td align="center" width="120"><strong>Backend & Databases</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma,firebase&theme=dark" alt="Backend and Databases" />
-</td>
-</tr>
-<tr>
-<td align="center" width="120"><strong>AI / GenAI Stack</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="AI Stack" />
-<br/>
-
-> `LangChain` · `LangGraph` · `OpenAI API` · `Gemini` · `RAG Systems` · `Vector Databases` · `Agentic Workflows` · `Prompt Engineering`
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,prisma,redis,firebase,kafka&theme=dark" alt="Backend and Databases" />
 </td>
 </tr>
 <tr>
 <td align="center" width="120"><strong>DevOps & Tools</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel&theme=dark" alt="DevOps and Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,gcp&theme=dark" alt="DevOps and Tools" />
 </td>
 </tr>
 </table>
@@ -139,10 +118,6 @@
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📊 `$ git log --stat`
 
@@ -161,22 +136,19 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🚀 `$ cat ./projects/featured.md`
 
 <div align="center">
 
 | Project | Stack | What it does |
 |:--------|:------|:-------------|
-| 🎯 **Mentor Map** | React · TypeScript · TailwindCSS | SIH 2024 National Winner — AI career counselling with personality analysis & real-time counsellor matching |
-| 📧 **GenMail** | LLM APIs · Node.js · PostgreSQL · Prisma | AI-powered professional email generator with auth & history |
+| 🤖 **Agentic DMG Pipeline** *(@ AlkemiiLabs)* | FastAPI · Kafka · WebGPU · Multi-Agent | 3-phase agentic pipeline — classifier → planner → executor agents for Dedicated Motion Graphics generation |
+| 🗺️ **Mentor Map** | React · ReactFlow · TypeScript · PostgreSQL | SIH 2024 Winner — AI career counsellor for rural students; LLM-based career classifier, roadmap generator with ReactFlow, counsellor matching & skill-pay market insights |
+| 📄 **ChatPDF** | Next.js · Pinecone · Gemini API · Clerk | RAG-based document Q&A — PDF ingestion → chunking → embedding → semantic retrieval with per-user vector isolation |
+| 📧 **GenMail** | Node.js · PostgreSQL · Prisma | AI-powered professional email generator with auth & history |
 | ✈️ **AI Trip Planner** | React · Gemini API · Firebase | AI itinerary generator with personalized recommendations & real-time sync |
 | 🖨️ **PrimePrint** *(Building)* | Next.js · TypeScript · PostgreSQL | AI-powered custom print platform |
 | 🧠 **Brainify** *(Building)* | Next.js · RAG · Vector DB | AI second brain with semantic search & distraction-free retrieval |
-| 🎤 **AI Interview Analyzer** *(Upcoming)* | React · LangChain · AI APIs | Interview evaluation & feedback with performance analytics |
 
 </div>
 
@@ -184,25 +156,18 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      EXPERIENCE                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 💼 `$ cat ./experience/timeline.log`
 
 ```
-[2025-01 → present]  ████████░░  CapsAI              Full Stack Developer Intern
-[2024-01 → present]  ████████░░  CodeChef Club        Development Team Member
-[2021-00 → 2027-00]  ██████████  ABES Engineering     B.Tech Computer Science
+[Feb 2026 → Apr 2026]  ████████░░  AlkemiiLabs (TournaHub)   SDE Intern — Agentic DMG Pipeline, Kafka, WebGPU
+[Oct 2025 → Jan 2026]  ████████░░  CapsAI                    Full Stack Intern — GCP migration, Remotion pipelines
+[2024-01 → present]    ████████░░  CodeChef Club              Development Team Member @ ABES EC
+[2023-00 → 2027-00]    ██████████  ABES Engineering           B.Tech Computer Science
 ```
 
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 `$ cat ./achievements/unlocked.log`
 
@@ -210,11 +175,11 @@
 
 | Badge | Achievement |
 |:---:|:---|
-| 🏆 **SIH 2024 Winner** | Smart India Hackathon — AICTE Track · National level win |
+| 🌍 **Global 2nd — Hack-Nation AI Hackathon** | World Bank Track · 1700+ builders · 13 international hubs · Built **UNMAPPED** — AI platform mapping informal skills to economic opportunity |
+| 🏆 **SIH 2024 Winner** | Smart India Hackathon — National level · 385+ entries · Ministry of Education, Govt. of India |
 | 🥇 **NEC Winner** | National Entrepreneurship Challenge @ IIT Bombay |
-| 🚀 **Production AI Builder** | Multiple AI-powered apps shipped to production |
-| 💻 **CapsAI Intern** | Full Stack Developer at an AI startup |
-| 👨‍💻 **CodeChef Dev Team** | Active contributor & mentor at ABES EC chapter |
+| 💻 **2× Startup Intern** | SDE @ AlkemiiLabs · Full Stack @ CapsAI |
+| 👨‍💻 **DSA** | 200+ LeetCode problems · 30+ CodeChef contests |
 
 </div>
 
@@ -222,17 +187,12 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🌿 `$ git graph --all`
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amit-gupta18&bg_color=0a0a0a&color=E8FF47&line=4a6a10&point=E8FF47&area=true&area_color=1a2e00&border_color=1f1f1f&hide_border=false&title_color=E8FF47)](https://github.com/amit-gupta18)
 
-<!-- Snake Action: https://github.com/Platane/snk — set up the GitHub Action to generate this file -->
 <img src="https://raw.githubusercontent.com/amit-gupta18/amit-gupta18/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
 
 </div>
@@ -241,36 +201,28 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY BUILDING                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 ## 🔭 `$ ./run --mission 2026`
 
 ```
-LOADING: Advanced System Design   ████████░░ 80%
-LOADING: Agentic AI Systems       ██████░░░░ 60%
-LOADING: LangGraph Mastery        ████████░░ 80%
-LOADING: AI Infrastructure        █████░░░░░ 50%
-LOADING: Scalable Backends        ███████░░░ 70%
+LOADING: Agentic AI & LangGraph     ████████░░ 80%
+LOADING: System Design              ███████░░░ 70%
+LOADING: AI Infrastructure          █████░░░░░ 50%
+LOADING: Scalable Distributed Sys   ███████░░░ 70%
+LOADING: Open Source Contributions  ████░░░░░░ 40%
 ```
 
 **2026 OBJECTIVES**
 
-- [ ] 🎯 Secure top Software Engineering opportunities
+- [ ] 🎯 Land a top AI/Full-Stack SDE Intern role
+- [ ] 🤖 Ship UNMAPPED as a production product
 - [ ] 🚀 Launch PrimePrint
 - [ ] 🧠 Build Brainify MVP
-- [ ] ⚡ Master System Design
-- [ ] 🤖 Deepen Generative AI expertise
-- [ ] 🌐 Contribute more to Open Source
+- [ ] 🌐 Meaningful Open Source contributions
+- [ ] ⚡ Master Distributed Systems & AI Infra
 
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
