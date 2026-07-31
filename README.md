@@ -2,13 +2,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Full+Stack+Dev+%7C+GenAI+Engineer;Global+2nd+%E2%80%94+Hack-Nation+AI+Hackathon+%F0%9F%8F%86;SIH+2024+National+Winner+%F0%9F%87%AE%F0%9F%87%B3;LangChain+%7C+RAG+%7C+Multi-Agent+Orchestration;Transform.+Build.+Lead.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=E8FF47&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Full+Stack+Dev+%7C+GenAI+Engineer;Founder+%40+Rakhat+%E2%80%94+Live+Production+SaaS;Global+2nd+%E2%80%94+Hack-Nation+AI+Hackathon+%F0%9F%8F%86;SIH+2024+National+Winner+%F0%9F%87%AE%F0%9F%87%B3;LangChain+%7C+RAG+%7C+Multi-Agent+Orchestration;Transform.+Build.+Lead.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 <br/>
 
 <a href="https://www.linkedin.com/in/amitguptadev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E8FF47" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://rakhat.in" target="_blank">
+  <img src="https://img.shields.io/badge/Rakhat-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E8FF47" alt="Rakhat" />
 </a>
 &nbsp;
 <a href="https://amit-portfolio.notion.site" target="_blank">
@@ -43,19 +47,19 @@
 > ROLE       ::  Full Stack Dev & GenAI Engineer
 > LOCATION   ::  Ghaziabad, India 🇮🇳
 > COLLEGE    ::  ABES Engineering College — B.Tech CS '27
-> STATUS     ::  [ █████████░ ] Open to Opportunities
+> STATUS     ::  [ █████████░ ] Building Rakhat + Open to Opportunities
 > ALIAS      ::  optimus_prime
 > MOTTO      ::  "Transform. Build. Lead."
 
 > CURRENT MISSION:
+  ↳ Growing Rakhat — GST billing SaaS, live w/ real users
   ↳ Building Agentic AI pipelines & LLM systems
   ↳ Exploring Multi-Agent Orchestration & LangGraph
-  ↳ Shipping production-ready full-stack AI apps
   ↳ Deepening System Design & Distributed Systems
 
 > INTERESTS:
   ↳ Generative AI & Agentic Systems
-  ↳ Full Stack Development
+  ↳ Full Stack Development (Web + React Native)
   ↳ System Design & Scalability
   ↳ Open Source & Entrepreneurship
 ```
@@ -96,7 +100,7 @@
 <tr>
 <td align="center" width="120"><strong>Frontend</strong></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,react,tailwind,html,css&theme=dark" alt="Frontend" />
 </td>
 </tr>
 <tr>
@@ -142,7 +146,8 @@
 
 | Project | Stack | What it does |
 |:--------|:------|:-------------|
-| 🤖 **Agentic DMG Pipeline** *(@ AlkemiiLabs)* | FastAPI · Kafka · WebGPU · Multi-Agent | 3-phase agentic pipeline — classifier → planner → executor agents for Dedicated Motion Graphics generation |
+| 💰 **Rakhat** *(Live, founder)* | Next.js · React Native · Express · PostgreSQL · Redis | Production GST-compliant billing & business management SaaS for Indian SMB retailers — live since June 2026 with real paying users, web + mobile |
+| 🤖 **Agentic DMG Pipeline** *(@ TournaHub)* | FastAPI · Kafka · WebGPU · Multi-Agent | 3-phase agentic pipeline — classifier → planner → executor agents for Dedicated Motion Graphics generation |
 | 🗺️ **Mentor Map** | React · ReactFlow · TypeScript · PostgreSQL | SIH 2024 Winner — AI career counsellor for rural students; LLM-based career classifier, roadmap generator with ReactFlow, counsellor matching & skill-pay market insights |
 | 📄 **ChatPDF** | Next.js · Pinecone · Gemini API · Clerk | RAG-based document Q&A — PDF ingestion → chunking → embedding → semantic retrieval with per-user vector isolation |
 | 📧 **GenMail** | Node.js · PostgreSQL · Prisma | AI-powered professional email generator with auth & history |
@@ -159,10 +164,11 @@
 ## 💼 `$ cat ./experience/timeline.log`
 
 ```
-[Feb 2026 → Apr 2026]  ████████░░  AlkemiiLabs (TournaHub)   SDE Intern — Agentic DMG Pipeline, Kafka, WebGPU
-[Oct 2025 → Jan 2026]  ████████░░  CapsAI                    Full Stack Intern — GCP migration, Remotion pipelines
+[Feb 2026 → Apr 2026]  ████████░░  TournaHub                 SDE Intern — Agentic DMG Pipeline, Kafka, WebGPU
+[Oct 2025 → Jan 2026]  ████████░░  CapsAI                     Full Stack Intern — Next.js perf/SEO, Remotion pipelines
+[Jun 2026 → present]   ████████░░  Rakhat                     Founder — GST billing SaaS, live in production
 [2024-01 → present]    ████████░░  CodeChef Club              Development Team Member @ ABES EC
-[2023-00 → 2027-00]    ██████████  ABES Engineering           B.Tech Computer Science
+[2023-00 → 2027-00]    ██████████  ABES Engineering            B.Tech Computer Science
 ```
 
 <br/>
@@ -178,7 +184,8 @@
 | 🌍 **Global 2nd — Hack-Nation AI Hackathon** | World Bank Track · 1700+ builders · 13 international hubs · Built **UNMAPPED** — AI platform mapping informal skills to economic opportunity |
 | 🏆 **SIH 2024 Winner** | Smart India Hackathon — National level · 385+ entries · Ministry of Education, Govt. of India |
 | 🥇 **NEC Winner** | National Entrepreneurship Challenge @ IIT Bombay |
-| 💻 **2× Startup Intern** | SDE @ AlkemiiLabs · Full Stack @ CapsAI |
+| 💰 **Founder — Rakhat** | Live production SaaS · real paying users via word-of-mouth, zero marketing spend |
+| 💻 **2× Startup Intern** | SDE @ TournaHub · Full Stack @ CapsAI |
 | 👨‍💻 **DSA** | 200+ LeetCode problems · 30+ CodeChef contests |
 
 </div>
@@ -204,6 +211,7 @@
 ## 🔭 `$ ./run --mission 2026`
 
 ```
+LOADING: Rakhat Growth              ███████░░░ 70%
 LOADING: Agentic AI & LangGraph     ████████░░ 80%
 LOADING: System Design              ███████░░░ 70%
 LOADING: AI Infrastructure          █████░░░░░ 50%
@@ -213,6 +221,7 @@ LOADING: Open Source Contributions  ████░░░░░░ 40%
 
 **2026 OBJECTIVES**
 
+- [ ] 💰 Grow Rakhat's paying user base
 - [ ] 🎯 Land a top AI/Full-Stack SDE Intern role
 - [ ] 🤖 Ship UNMAPPED as a production product
 - [ ] 🚀 Launch PrimePrint
@@ -236,6 +245,9 @@ LOADING: Open Source Contributions  ████░░░░░░ 40%
 
 <a href="https://www.linkedin.com/in/amitguptadev">
   <img src="https://img.shields.io/badge/Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E8FF47"/>
+</a>
+<a href="https://rakhat.in">
+  <img src="https://img.shields.io/badge/Try%20Rakhat-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E8FF47"/>
 </a>
 <a href="https://amit-portfolio.notion.site">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-0a0a0a?style=for-the-badge&logo=notion&logoColor=E8FF47"/>
